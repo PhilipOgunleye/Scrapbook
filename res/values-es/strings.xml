@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbook</string>
+    
+    <string name="action_settings">Ajustes</string>
+    <string name="nt">Teatro y Teatro Nacional</string>
+    <string name="mh">hotel Marriot</string>
+    <string name="et">Torre Eiffel</string>
+    <string name="le">London Eye</string>
+
+</resources>
